@@ -8,7 +8,7 @@ import multiprocessing
 import random
 
 # default number of files and lines
-NUM_OF_FILES = 2
+NUM_OF_FILES = 3
 NUM_OF_LINES = 10
 
 # Function to generate a file with the specified number of lines
